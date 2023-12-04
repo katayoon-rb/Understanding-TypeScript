@@ -20,7 +20,7 @@ h1 {
   flex-wrap: wrap;
 }
 
-.projects div {
+.projects div div {
   width: 350px;
   height: 300px;
   
